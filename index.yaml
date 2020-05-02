@@ -3,12 +3,12 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-04-28T11:17:10.327466116Z"
+    created: "2020-05-02T00:54:59.314029314Z"
     description: Frontend
-    digest: 917716f497eeff981fb0540913a6eabd57d79c13b8f73c9a4eeb61ee957dd09f
+    digest: 0dc9139cfc6ddb5618ded3e2ab70f0c30bec5eee2a49e4b045743e6b5b9a7f78
     name: frontend
     type: application
     urls:
     - https://digital-management-system.github.io/helm/frontend-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-28T11:17:10.326808611Z"
+generated: "2020-05-02T00:54:59.31324822Z"
